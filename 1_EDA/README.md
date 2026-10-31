@@ -6,7 +6,7 @@ A SQL project analyzing the data engineer job market using real world job postin
 
 ---
 
-## 🧾 Executive Summary (For Hiring Managers)
+## 🧾 Executive Summary 
 
 - ✅ **Project scope:** Built **3 analytical queries** that answer key questions about the data engineer job market  
 - ✅ **Data modeling:** Used **multi-table joins** across fact and dimension tables to extract insights  
